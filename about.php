@@ -18,7 +18,7 @@
       <div>
         <p class="text-gray-700 mb-4">We enable enterprises to accelerate digital transformation using SAP Business Technology Platform and modern engineering practices.</p>
         <p class="text-gray-700 mb-4">Our architects and engineers deliver secure foundations, extensible applications and reliable integrations.</p>
-        <a href="/b2-cloud/contact/" class="inline-flex items-center gap-2 btn-gradient text-white rounded-full px-6 py-3">Contact Us<i class="bi bi-arrow-right"></i></a>
+        <a href="/b2-cloud/contact.php" class="inline-flex items-center gap-2 btn-gradient text-white rounded-full px-6 py-3">Contact Us<i class="bi bi-arrow-right"></i></a>
       </div>
       <div class="rounded-3xl overflow-hidden shadow-xl">
         <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&q=80" alt="Team" class="w-full h-[420px] object-cover" />

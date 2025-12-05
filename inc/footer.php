@@ -30,10 +30,10 @@
                     <div>
                         <h4 class="text-white font-semibold mb-6">Services</h4>
                         <ul class="space-y-3 text-gray-400 text-sm">
-                            <li><a href="/b2-cloud/services/sap-btp/" class="hover:text-white">SAP BTP Implementation</a></li>
-                            <li><a href="/b2-cloud/services/cloud-dev/" class="hover:text-white">Application Development</a></li>
-                            <li><a href="/b2-cloud/services/integration/" class="hover:text-white">Integration & Analytics</a></li>
-                            <li><a href="/b2-cloud/services/managed/" class="hover:text-white">Managed Services</a></li>
+                            <li><a href="/b2-cloud/services/sap-btp.php" class="hover:text-white">SAP BTP Implementation</a></li>
+                            <li><a href="/b2-cloud/services/cloud-dev.php" class="hover:text-white">Application Development</a></li>
+                            <li><a href="/b2-cloud/services/integration.php" class="hover:text-white">Integration & Analytics</a></li>
+                            <li><a href="/b2-cloud/services/managed.php" class="hover:text-white">Managed Services</a></li>
                         </ul>
                     </div>
                     <div>
@@ -48,10 +48,10 @@
                     <div>
                         <h4 class="text-white font-semibold mb-6">Company</h4>
                         <ul class="space-y-3 text-gray-400 text-sm">
-                            <li><a href="/b2-cloud/about/" class="hover:text-white">About Us</a></li>
-                            <li><a href="/b2-cloud/careers/" class="hover:text-white">Careers</a></li>
+                            <li><a href="/b2-cloud/about.php" class="hover:text-white">About Us</a></li>
+                            <li><a href="/b2-cloud/careers.php" class="hover:text-white">Careers</a></li>
                             <li><a href="/b2-cloud/#insights" class="hover:text-white">Insights</a></li>
-                            <li><a href="/b2-cloud/contact/" class="hover:text-white">Contact</a></li>
+                            <li><a href="/b2-cloud/contact.php" class="hover:text-white">Contact</a></li>
                         </ul>
                     </div>
                     <div>

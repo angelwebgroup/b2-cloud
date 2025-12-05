@@ -9,7 +9,7 @@
       <span class="inline-block px-4 py-2 bg-blue-100 text-blue-600 rounded-full text-sm font-semibold tracking-wide mb-6">Service</span>
       <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold text-white">Data & Analytics</h1>
       <p class="mt-6 text-lg text-white/90">SAP HANA Cloud modelling, analytics and governed data pipelines.</p>
-      <div class="mt-8"><a href="/b2-cloud/contact/" class="inline-flex items-center gap-2 btn-gradient text-white rounded-full px-6 py-3">Explore analytics<i class="bi bi-arrow-right"></i></a></div>
+      <div class="mt-8"><a href="/b2-cloud/contact.php" class="inline-flex items-center gap-2 btn-gradient text-white rounded-full px-6 py-3">Explore analytics<i class="bi bi-arrow-right"></i></a></div>
     </div>
   </div>
 </section>

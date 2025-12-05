@@ -193,12 +193,12 @@
                             </a>
                             <div class="absolute top-full left-0 mt-2 w-72 bg-white rounded-2xl shadow-xl opacity-0 transition-all duration-200 group-hover:opacity-100">
                                 <div class="p-2">
-                                    <a class="flex justify-between px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-xl" href="/b2-cloud/services/sap-btp/">SAP BTP Implementation</a>
-                                    <a class="flex justify-between px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-xl" href="/b2-cloud/services/cloud-dev/">Cloud-Native App Development</a>
-                                    <a class="flex justify-between px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-xl" href="/b2-cloud/services/integration/">Integration Services</a>
-                                    <a class="flex justify-between px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-xl" href="/b2-cloud/services/analytics/">Data & Analytics</a>
-                                    <a class="flex justify-between px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-xl" href="/b2-cloud/services/migration/">Migration & Modernization</a>
-                                    <a class="flex justify-between px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-xl" href="/b2-cloud/services/managed/">Managed Services & Support</a>
+                                    <a class="flex justify-between px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-xl" href="/b2-cloud/services/sap-btp.php">SAP BTP Implementation</a>
+                                    <a class="flex justify-between px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-xl" href="/b2-cloud/services/cloud-dev.php">Cloud-Native App Development</a>
+                                    <a class="flex justify-between px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-xl" href="/b2-cloud/services/integration.php">Integration Services</a>
+                                    <a class="flex justify-between px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-xl" href="/b2-cloud/services/analytics.php">Data & Analytics</a>
+                                    <a class="flex justify-between px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-xl" href="/b2-cloud/services/migration.php">Migration & Modernization</a>
+                                    <a class="flex justify-between px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-xl" href="/b2-cloud/services/managed.php">Managed Services & Support</a>
                                 </div>
                             </div>
                         </div>
@@ -235,8 +235,8 @@
                         </div>
 
                         <a href="/b2-cloud/#industries" class="px-4 py-2 text-white/90 hover:text-white text-sm font-medium">Industries</a>
-                        <a href="/b2-cloud/about/" class="px-4 py-2 text-white/90 hover:text-white text-sm font-medium">About Us</a>
-                        <a href="/b2-cloud/careers/" class="px-4 py-2 text-white/90 hover:text-white text-sm font-medium">Careers</a>
+                        <a href="/b2-cloud/about.php" class="px-4 py-2 text-white/90 hover:text-white text-sm font-medium">About Us</a>
+                        <a href="/b2-cloud/careers.php" class="px-4 py-2 text-white/90 hover:text-white text-sm font-medium">Careers</a>
                     </nav>
 
                     <div class="flex items-center gap-4">
@@ -246,7 +246,7 @@
                             <i class="bi bi-search text-xl"></i>
                         </button>
 
-                        <a href="/b2-cloud/contact/"
+                        <a href="/b2-cloud/contact.php"
                             class="hidden lg:inline-flex items-center gap-2 btn-gradient text-white rounded-full px-6 py-2 text-sm focus-ring"
                             role="button">
                             Contact Us
@@ -270,13 +270,13 @@
                         <a class="block px-4 py-3 text-white hover:bg-white/10 rounded-xl transition-colors" href="/b2-cloud/#coes">CoEs</a>
                         <a class="block px-4 py-3 text-white hover:bg-white/10 rounded-xl transition-colors" href="/b2-cloud/#solutions">Solutions</a>
                         <a class="block px-4 py-3 text-white hover:bg-white/10 rounded-xl transition-colors" href="/b2-cloud/#industries">Industries</a>
-                        <a class="block px-4 py-3 text-white hover:bg-white/10 rounded-xl transition-colors" href="/b2-cloud/about/">About Us</a>
-                        <a class="block px-4 py-3 text-white hover:bg-white/10 rounded-xl transition-colors" href="/b2-cloud/careers/">Careers</a>
+                        <a class="block px-4 py-3 text-white hover:bg-white/10 rounded-xl transition-colors" href="/b2-cloud/about.php">About Us</a>
+                        <a class="block px-4 py-3 text-white hover:bg-white/10 rounded-xl transition-colors" href="/b2-cloud/careers.php">Careers</a>
                     </nav>
 
                     <div class="mt-6 pt-6 border-t border-white/10">
                         <a class="w-full inline-flex justify-center items-center gap-2 btn-gradient text-white rounded-full py-4"
-                            href="/b2-cloud/contact/">Contact Us</a>
+                            href="/b2-cloud/contact.php">Contact Us</a>
                     </div>
                 </div>
             </div>

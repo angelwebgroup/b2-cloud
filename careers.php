@@ -9,7 +9,7 @@
       <span class="inline-block px-4 py-2 bg-white/10 text-cyan-300 rounded-full text-sm font-semibold tracking-wide mb-6 backdrop-blur-sm">Careers</span>
       <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold text-white">Shape Your Future</h1>
       <p class="mt-6 text-lg text-white/90">We hire SAP, cloud and data experts — join a global team working on enterprise transformation.</p>
-      <div class="mt-8"><a href="/b2-cloud/contact/" class="inline-flex items-center gap-2 btn-gradient text-white rounded-full px-6 py-3">Contact Talent Team<i class="bi bi-arrow-right"></i></a></div>
+      <div class="mt-8"><a href="/b2-cloud/contact.php" class="inline-flex items-center gap-2 btn-gradient text-white rounded-full px-6 py-3">Contact Talent Team<i class="bi bi-arrow-right"></i></a></div>
     </div>
   </div>
 </section>
