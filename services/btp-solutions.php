@@ -1,4 +1,4 @@
-<?php include 'inc/header.php'; ?>
+<?php include '../inc/header.php'; ?>
 <section class="relative py-24 lg:py-32 overflow-hidden">
   <div class="absolute inset-0">
     <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1920&q=80" alt="BTP Solutions" class="w-full h-full object-cover" />
@@ -59,4 +59,4 @@
   </div>
 </section>
 
-<?php include 'inc/footer.php'; ?>
+<?php include '../inc/footer.php'; ?>

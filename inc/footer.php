@@ -17,7 +17,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="py-16 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 lg:gap-12">
+                <div class="py-16 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 lg:gap-12">
                     <div class="col-span-2 md:col-span-3 lg:col-span-1">
                         <div class="text-3xl font-bold mb-6"><span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-300">B2 Cloud Tech</span></div>
                         <p class="text-gray-400 text-sm leading-relaxed mb-6">Global SAP BTP specialists delivering cloud-native solutions, integration and managed services.</p>
@@ -37,6 +37,13 @@
                         </ul>
                     </div>
                     <div>
+                        <h4 class="text-white font-semibold mb-6">Solutions</h4>
+                        <ul class="space-y-3 text-gray-400 text-sm">
+                            <li><a href="/b2-cloud/btp-solutions.php" class="hover:text-white">BTP Solutions</a></li>
+                            <li><a href="/b2-cloud/industries.php" class="hover:text-white">Industries</a></li>
+                        </ul>
+                    </div>
+                    <div>
                         <h4 class="text-white font-semibold mb-6">CoEs</h4>
                         <ul class="space-y-3 text-gray-400 text-sm">
                             <li><a href="/b2-cloud/#coes" class="hover:text-white">SAP</a></li>
@@ -52,16 +59,11 @@
                             <li><a href="/b2-cloud/careers.php" class="hover:text-white">Careers</a></li>
                             <li><a href="/b2-cloud/#insights" class="hover:text-white">Insights</a></li>
                             <li><a href="/b2-cloud/contact.php" class="hover:text-white">Contact</a></li>
-                        </ul>
-                    </div>
-                    <div>
-                        <h4 class="text-white font-semibold mb-6">Solutions</h4>
-                        <ul class="space-y-3 text-gray-400 text-sm">
-                            <li><a href="/b2-cloud/btp-solutions.php" class="hover:text-white">BTP Solutions</a></li>
                             <li><a href="/b2-cloud/industries.php" class="hover:text-white">Industries</a></li>
                         </ul>
                     </div>
-                    <div>
+                    
+                    <!-- <div>
                         <h4 class="text-white font-semibold mb-6">Industries</h4>
                         <ul class="space-y-3 text-gray-400 text-sm">
                             <li><a href="/b2-cloud/industries.php" class="hover:text-white">Manufacturing</a></li>
@@ -69,7 +71,7 @@
                             <li><a href="/b2-cloud/industries.php" class="hover:text-white">BFSI</a></li>
                             <li><a href="/b2-cloud/industries.php" class="hover:text-white">Healthcare</a></li>
                         </ul>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="py-8 border-t border-white/10 flex flex-col lg:flex-row items-center justify-between gap-6">
                     <!-- <div class="flex items-center gap-4">
