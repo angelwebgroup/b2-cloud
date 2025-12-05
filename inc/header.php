@@ -168,7 +168,7 @@
 
 <body class="antialiased text-sm bg-white text-gray-900">
 
-    <div id="app" class="min-h-screen">
+    <div id="app">
 
         <header id="site-header" class="fixed top-0 left-0 right-0 z-50 transition-all duration-500"
             style="background-color: rgba(10,22,40,0.95);">
@@ -280,6 +280,6 @@
                     </div>
                 </div>
             </div>
-                </div>
+        </header>
             </div>
         </header>
