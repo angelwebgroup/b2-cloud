@@ -228,13 +228,13 @@
                             </a>
                             <div class="absolute top-full left-0 mt-2 w-64 bg-white rounded-2xl shadow-xl overflow-hidden opacity-0 transition-all duration-200 group-hover:opacity-100">
                                 <div class="p-2">
-                                    <a class="flex justify-between px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-xl" href="/b2-cloud/#btp-solutions">BTP Solutions</a>
+                                    <a class="flex justify-between px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-xl" href="/b2-cloud/btp-solutions.php">BTP Solutions</a>
                                     
                                 </div>
                             </div>
                         </div>
 
-                        <a href="/b2-cloud/#industries" class="px-4 py-2 text-white/90 hover:text-white text-sm font-medium">Industries</a>
+                        <a href="/b2-cloud/industries.php" class="px-4 py-2 text-white/90 hover:text-white text-sm font-medium">Industries</a>
                         <a href="/b2-cloud/about.php" class="px-4 py-2 text-white/90 hover:text-white text-sm font-medium">About Us</a>
                         <a href="/b2-cloud/careers.php" class="px-4 py-2 text-white/90 hover:text-white text-sm font-medium">Careers</a>
                     </nav>
@@ -269,7 +269,7 @@
                         <a class="block px-4 py-3 text-white hover:bg-white/10 rounded-xl transition-colors" href="/b2-cloud/#services">Services</a>
                         <a class="block px-4 py-3 text-white hover:bg-white/10 rounded-xl transition-colors" href="/b2-cloud/#coes">CoEs</a>
                         <a class="block px-4 py-3 text-white hover:bg-white/10 rounded-xl transition-colors" href="/b2-cloud/#solutions">Solutions</a>
-                        <a class="block px-4 py-3 text-white hover:bg-white/10 rounded-xl transition-colors" href="/b2-cloud/#industries">Industries</a>
+                        <a class="block px-4 py-3 text-white hover:bg-white/10 rounded-xl transition-colors" href="/b2-cloud/industries.php">Industries</a>
                         <a class="block px-4 py-3 text-white hover:bg-white/10 rounded-xl transition-colors" href="/b2-cloud/about.php">About Us</a>
                         <a class="block px-4 py-3 text-white hover:bg-white/10 rounded-xl transition-colors" href="/b2-cloud/careers.php">Careers</a>
                     </nav>

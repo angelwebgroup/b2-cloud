@@ -55,21 +55,28 @@
                         </ul>
                     </div>
                     <div>
+                        <h4 class="text-white font-semibold mb-6">Solutions</h4>
+                        <ul class="space-y-3 text-gray-400 text-sm">
+                            <li><a href="/b2-cloud/btp-solutions.php" class="hover:text-white">BTP Solutions</a></li>
+                            <li><a href="/b2-cloud/industries.php" class="hover:text-white">Industries</a></li>
+                        </ul>
+                    </div>
+                    <div>
                         <h4 class="text-white font-semibold mb-6">Industries</h4>
                         <ul class="space-y-3 text-gray-400 text-sm">
-                            <li><a href="#" class="hover:text-white">Manufacturing</a></li>
-                            <li><a href="#" class="hover:text-white">Lifesciences</a></li>
-                            <li><a href="#" class="hover:text-white">BFSI</a></li>
-                            <li><a href="#" class="hover:text-white">Healthcare</a></li>
+                            <li><a href="/b2-cloud/industries.php" class="hover:text-white">Manufacturing</a></li>
+                            <li><a href="/b2-cloud/industries.php" class="hover:text-white">Lifesciences</a></li>
+                            <li><a href="/b2-cloud/industries.php" class="hover:text-white">BFSI</a></li>
+                            <li><a href="/b2-cloud/industries.php" class="hover:text-white">Healthcare</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="py-8 border-t border-white/10 flex flex-col lg:flex-row items-center justify-between gap-6">
-                    <div class="flex items-center gap-4">
+                    <!-- <div class="flex items-center gap-4">
                         <a href="#" class="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition-colors"><i class="bi bi-linkedin"></i></a>
                         <a href="#" class="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition-colors"><i class="bi bi-twitter-x"></i></a>
                         <a href="#" class="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition-colors"><i class="bi bi-facebook"></i></a>
-                    </div>
+                    </div> -->
                     <p class="text-gray-400 text-sm">© <span id="year"></span> B2 Cloud Tech. All rights reserved.</p>
                 </div>
             </div>
